@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+
+\bibitem{2}
+M.~J. Keeling and P.~Rohani.
+\newblock {Modeling Infectious Diseases in Humans and Animals}.
+\newblock {\em Princeton University Press, Princeton and Oxford}, 2008.
+
+\bibitem{7}
+M.R. de~Pinho, H.~Maurer, and I.~Kornienko.
+\newblock Optimal control of a {SEIR} model with mixed constraints and {L1}
+  cost.
+\newblock {\em Controlo 2014-Proceedings of the 11th Port. Conf. on Autom.
+  Control Lecture Notes in Electrical Engineering, Springer, Switzerland},
+  (321), 2015.
+
+\bibitem{10}
+{M. De la Sen}, R.~P. Agarwal, A.~Ibeas, and S.~Alonso-Quesada.
+\newblock On the existence of equilibrium points, boundedness, oscillating
+  behaviour and positivity of a {SVEIRS} epidemic model under constant and
+  impulsive vaccination.
+\newblock {\em Advances in Difference Equations, Article ID 748608,
+  doi:10.1155/2011/748608}, 2011.
+
+\bibitem{12}
+{M. De la Sen} and S.~Alonso-Quesada.
+\newblock Vaccination strategies based on feedback control techniques for a
+  {SEIR}-epidemic model.
+\newblock {\em Applied Mathematics and Computation}, 218(7):3888--3904, 2011.
+
+\bibitem{11}
+{M. De la Sen}, R.~P. Agarwal, A.~Ibeas, and S.~Alonso-Quesada.
+\newblock On a generalized time-varying {SEIR} epidemic model with mixed point
+  and distributed time-varying delays and combined regular and impulsive
+  vaccination.
+\newblock {\em Advances in Difference Equations, Article ID 281612,
+  doi:10.1155/20101/281612}, 2010.
+
+\bibitem{24}
+J.P. Tripathi and S.~Abbas.
+\newblock Global dynamics of autonomous and nonautonomous {SI} epidemic models
+  with nonlinear incidence rate and feedback controls.
+\newblock {\em Nonlinear Dynamics}, 86(1):337--351, 2016.
+
+\bibitem{26}
+B.~Buonomo, D.~Lacitignola, and C.~Vargas de~Leon.
+\newblock Qualitative analysis and optimal control of an epidemic model with
+  vaccination and treatment.
+\newblock {\em Mathematics and Computers in Simulation}, 100:88--102, 2014.
+
+\bibitem{28}
+L.~Ling, G.R. Jiang, and T.F. Long.
+\newblock The dynamics of an {SIS} epidemic model with fixed-time birth pulses
+  and state feedback pulse treatments.
+\newblock {\em Applied Mathematical Modelling}, 39(18):5579--5591, 2015.
+
+\bibitem{29}
+Y.Y. He, S.J. Gao, and D.H. Xie.
+\newblock An {SIR} epidemic model with time-varying pulse control schemes and
+  saturated infectious force.
+\newblock {\em Applied Mathematical Modelling}, 37(16-17):8131--8140, 2013.
+
+\end{thebibliography}
